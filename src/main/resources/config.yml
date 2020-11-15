@@ -1,0 +1,5 @@
+enableAdminPass: true
+groups:
+  #Examples
+  helper: "passwd1"
+  admin: "passwd2"

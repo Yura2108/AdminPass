@@ -1,0 +1,5 @@
+name: AdminPass
+version: @version@
+main: me.yura.adminpass.AdminPass
+commands:
+  apass:
