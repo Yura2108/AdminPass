@@ -33,6 +33,4 @@ processResources {
     }
 
     compileJava.options.encoding = "UTF-8"
-
-    jar.destinationDir(new File("C:/Users/Юра/Desktop/output/"))
 }
